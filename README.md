@@ -1,4 +1,9 @@
 # guchi
+愚痴を吐く CLI ツールです。以下の URL に愚痴が吐かれます（もちろん CLI から取得可能)。   
+https://guchis.site/guchis   
+"guchi" is Japanese bitches and posted the following URL by This CLI Tool.   
+https://guchis.site/guchis
+
 ## Download
 ```bash
 # 実行バイナリのみ(only executable binary)
