@@ -3,12 +3,11 @@
 ```bash
 # 実行バイナリのみ(only executable binary)
 $ wget https://github.com/daiching/guchi/raw/master/guchi
-
+$ chmod +x ./guchi
 $ ./guchi
 
 # go get
 $ go get github.com/daiching/guchi
-
 $ guchi
 ```
 ## 日本語(English is below)
