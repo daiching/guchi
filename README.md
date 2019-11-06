@@ -12,7 +12,6 @@ $ go get github.com/daiching/guchi
 $ guchi
 ```
 ## 日本語(English is below)
-### 概要
 愚痴を投稿するCLIクライアントです。コマンドラインから愚痴の投稿および取得ができます。   
 なお、愚痴は以下のURLにただの文字列で表示されます。   
 https://guchis.site/guchis
