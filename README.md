@@ -75,7 +75,7 @@ $ guchi -n 2
 # If no option is specified, the post will be posted as "Nanashi".
 $ guchi 
 Nanashi:
-Because it is a bizarre name, Nanashi is fine
+Because it is a bizarre name, Nanashi is fine.
 (...Less than)
 
 # -u If you specify an option, you can decide the name and post.
@@ -86,7 +86,7 @@ Ncha!
 ```
 
 - config file   
-Options can be specified by placing a .guchi file under the ~ directory.
+Options can be specified by placing a .guchi file under the ~ directory.   
 But for now, only the name of the contributor is available. Specify as follows (you can comment out with #).
 ```bash
 Name=daiching
