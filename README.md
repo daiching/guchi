@@ -1,4 +1,12 @@
 # guchi
+## Download
+```bash
+# 実行バイナリのみ(only executable binary)
+$ wget https://github.com/daiching/guchi/raw/master/guchi
+
+# go get
+go get github.com/daiching/guchi
+```
 ## 日本語(English is below)
 ### 概要
 愚痴を投稿するCLIクライアントです。コマンドラインから愚痴の投稿および取得ができます。   
